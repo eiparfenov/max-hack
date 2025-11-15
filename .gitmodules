@@ -1,0 +1,3 @@
+[submodule "schedule-agent"]
+	path = schedule-agent
+	url = https://github.com/Timik232/schedule-agent
